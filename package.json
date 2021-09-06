@@ -1,0 +1,17 @@
+{
+  "name": "openmaryland",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "workspaces": [
+    "web",
+    "sanity"
+  ],
+  "devDependencies": {
+    "@hzdg/eslint-config": "^2.0.2",
+    "@hzdg/eslint-config-react": "^2.0.2",
+    "@hzdg/eslint-config-typescript": "^4.0.0",
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2"
+  }
+}

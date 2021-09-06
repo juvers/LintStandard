@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "@hzdg",
+    "@hzdg/eslint-config-typescript",
+    "@hzdg/eslint-config-react",
+    "next",
+    "next/core-web-vitals",
+    "plugin:import/typescript"
+  ],
+  "globals": {
+    "JSX": true,
+    "React": true,
+    "window": true
+  }
+}
